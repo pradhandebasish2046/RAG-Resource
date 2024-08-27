@@ -1,5 +1,5 @@
+Qdrant\ Hybrid\ Search/*.Zone.Identifier
 *.log
 *.Zone.Identifier
 node_modules/
 .env
-/Qdrant Hybrid Search/*Zone.Identifier
