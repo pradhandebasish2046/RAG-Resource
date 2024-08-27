@@ -2,4 +2,4 @@
 *.Zone.Identifier
 node_modules/
 .env
-/Qdrant Hybrid Search/*Zone.Identifier
+**/*:Zone.Identifier
